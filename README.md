@@ -1,6 +1,7 @@
 # Tamagotchi Game
 
-[GitHub pages link] - ([url](https://swiderekm.github.io/Tamagotchi-app/))
+GitHub pages page link:
+[Tamagotchi🐾](https://swiderekm.github.io/Tamagotchi-app/)
 
 ## About The Project
 
