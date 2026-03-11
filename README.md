@@ -1,5 +1,7 @@
 # Tamagotchi Game
 
+[GitHub pages link] - ([url](https://swiderekm.github.io/Tamagotchi-app/))
+
 ## About The Project
 
 This is my **school project** Tamagotchi game — a digital pet simulation where you take care of a cute creature by feeding it, playing with it and putting it to sleep.
